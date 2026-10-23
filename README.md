@@ -1,0 +1,1 @@
+# program-to-calculate-the-average-of-dynamically-allocated-array-elements.
